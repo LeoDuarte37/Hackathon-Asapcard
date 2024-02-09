@@ -62,7 +62,7 @@
   <br>
   6 - Execute o programa sendMessage para fazer a leitura, conversão e envio dos dados para a fila Rabbitmq. (Você pode conferir o envio através do RabbitMq utilizando usuario: guest e senha: guest)
   <br>
-  7 - Em seguida, execute o projeto CardProcessor para fazer o recebemineto dos dados da fila. Os dados apenas serão exibidos no console.
+  7 - Em seguida, execute o projeto CardProcessor para fazer o recebimento dos dados da fila. Os dados apenas serão exibidos no console.
   <br>
   
    - O projeto ainda não persiste as mensagens consumidas no banco de dados, somente realiza um log delas. Ainda se encontra em andamento. 🔧
