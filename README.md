@@ -64,7 +64,8 @@
   <br>
   7 - Em seguida, execute o projeto CardProcessor para fazer o recebemineto dos dados da fila. Os dados apenas serão exibidos no console.
   <br>
-   - A partir desse ponto, ele somente cria as tabelas com as colunas, e faz um log das mensagens. O projeto ainda se encontra em andamento. 🔧
+  
+   - O projeto ainda não persiste as mensagens consumidas no banco de dados, somente realiza um log delas. Ainda se encontra em andamento. 🔧
 </p>
 
 
